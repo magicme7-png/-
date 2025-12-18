@@ -1,0 +1,5 @@
+{
+  "name": "座位表",
+  "description": "An elegant event management application that helps guests find their seats and interact with an AI event concierge for event details.",
+  "requestFramePermissions": []
+}
